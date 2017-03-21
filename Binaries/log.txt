@@ -1,0 +1,971 @@
+**************  UNITY STARTED 3/11/2017 5:07:03 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/18/2017 5:40:03 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/18/2017 6:36:50 PM
+**************  UNITY STARTED 3/18/2017 6:36:58 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+**************  UNITY STARTED 3/18/2017 6:37:14 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/18/2017 6:48:29 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+**************  UNITY STARTED 3/18/2017 7:05:21 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/18/2017 7:38:18 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/18/2017 7:40:30 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/19/2017 2:30:22 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/19/2017 2:38:52 PM
+**************  UNITY STARTED 3/19/2017 3:01:38 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/19/2017 3:43:31 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/19/2017 4:38:43 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/19/2017 4:39:24 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/19/2017 4:40:34 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/20/2017 9:52:51 PM
+**************  UNITY STARTED 3/20/2017 9:53:30 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/20/2017 10:36:12 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/20/2017 10:37:15 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/20/2017 10:59:01 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/20/2017 11:01:17 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/20/2017 11:06:51 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/20/2017 11:10:19 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/20/2017 11:13:35 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/20/2017 11:30:20 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/20/2017 11:56:26 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 12:06:13 AM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 12:42:37 AM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 1:07:39 AM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 9:20:57 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 9:24:25 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 9:26:03 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 9:36:29 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 9:37:30 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 9:41:25 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:00:08 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:10:03 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:16:34 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 10:20:56 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:25:20 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:26:58 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 10:30:04 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:36:14 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:40:11 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 10:46:16 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 10:47:23 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:47:39 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 10:49:46 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+**************  UNITY STARTED 3/21/2017 10:53:37 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 10:55:01 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 11:01:04 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/21/2017 11:05:37 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+**************  UNITY STARTED 3/21/2017 11:30:32 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 11:31:32 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 11:37:44 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+**************  UNITY STARTED 3/21/2017 11:39:48 PM
+Unity exception. Condition +`SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+`, stackTrace: System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end)
+System.Net.Sockets.TcpListener.Start (Int32 backlog)
+System.Net.Sockets.TcpListener.Start ()
+Assets.Servers.PlayServer..ctor (Int32 port)
+Assets.GameManager..ctor ()
+Dispatcher+<Start>c__Iterator0.MoveNext ()
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+
+
+
+
+
+PlayServer.HasGame: Requested game homm.Level2
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game

@@ -1,0 +1,79 @@
+//------------------------------------------
+hommRules.CombatDuration = 2
+hommRules.DailyTickInterval = 5
+hommRules.DwellingCapacity = 32
+hommRules.GarrisonBuildDuration = 0.5
+hommRules.MineDailyResourceYield = 10
+hommRules.MineOwningDailyScores = 1
+hommRules.MovementDuration = 0.5
+hommRules.MovementFailsDuration = 0.1
+hommRules.ResourcesGainScores = 1
+hommRules.RespawnInterval = 2
+hommRules.UnitsHireDuration = 0.5 
+hommRules.DwellingCapacity = 32
+
+//------------------------------------------
+UnitCostant
+
+CombatPower
+Infantry : 15
+Ranged : 15
+Cavalry : 30
+Militia : 12
+
+Scores
+Cavalry : 2
+Infantry : 1
+Militia : 1
+Ranged : 1
+
+WeeklyGrowth
+Infantry : 16
+Ranged : 16
+Cavalry : 8
+Militia : 16
+
+
+CombatMod
+
+Infantry
+Infantry : 1
+Ranged : 0.75
+Cavalry : 1.25
+Militia : 1
+
+Ranged
+Infantry : 1.25
+Ranged : 1
+Cavalry : 0.75
+Militia : 1
+
+Cavalry
+Infantry : 0.75
+Ranged : 1.25
+Cavalry : 1
+Militia : 1
+
+Militia
+Infantry : 1
+Ranged : 1
+Cavalry : 1
+Militia : 1
+
+
+UnitCost
+
+Infantry
+Gold : 1
+Iron : 1
+
+Ranged
+Gold : 1
+Glass : 1
+
+Cavalry
+Gold : 2
+Ebony : 2
+
+Militia
+Gold : 1
