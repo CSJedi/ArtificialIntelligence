@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Linq;
 using HoMM.Sensors;
 using HoMM;
@@ -9,43 +10,69 @@ namespace Homm.Client
 {
 	class Search
 	{
-		public Search(bool[,] map, Location start, Location target)
-		{
-			var path = MinPathBetween(start, target, map);
+		//public Search(bool[,] map, Location start, Location target)
+		//{
+		//	var path = MinPathBetween(start, target, map);
 
-			foreach (var point in path)
-			{
-				Console.WriteLine("X,Y = " + point.X + "," + point.Y);
-			}
+		//	foreach (var point in path)
+		//	{
+		//		Console.WriteLine("X,Y = " + point.X + "," + point.Y);
+		//	}
 
-			Console.ReadLine();
-		}
+		//	Console.ReadLine();
+		//}
 
-		public static Stack<Location> MinPathBetween(Location start, Location target, bool[,] map)
+		public Direction[] MinPathBetween(Location start, Location target, bool[,] map)
 		{
 			var path = new Stack<Location>();
 			if (!map[start.Y, start.X])
-				return path;
+				return FormatPathToDirection(path);
 
 			var mapPaths = new int[map.GetLength(0), map.GetLength(1)];
 
 			MarkForward(map, mapPaths, start, target, 1);
 
-			for (int i = 0; i < mapPaths.GetLength(1); i++)
-			{
-				for (int j = 0; j < mapPaths.GetLength(0); j++)
-				{
-					Console.Write("[" + i + "," + j + "]" + mapPaths[i, j] + ", ");
-				}
-				Console.WriteLine();
-			}
+			//for (int i = 0; i < mapPaths.GetLength(1); i++)
+			//{
+			//	for (int j = 0; j < mapPaths.GetLength(0); j++)
+			//	{
+			//		Console.Write("[" + i + "," + j + "]" + mapPaths[i, j] + ", ");
+			//	}
+			//	Console.WriteLine();
+			//}
 
 			SelectPath(map, mapPaths, start, target, path);
-
-			return path;
+			return FormatPathToDirection(path);
 		}
 
-		private static void MarkForward(bool[,] map, int[,] mapPaths, Location start, Location target, int step)
+		private Direction[] FormatPathToDirection(Stack<Location> path)
+		{
+			var directionPath = new Direction[path.Count];
+			var arrPath = path.ToArray();
+
+			for (int i = 1; i < arrPath.Length; i++)
+			{
+				var x = arrPath[i].X - arrPath[i-1].X;
+				var y = arrPath[i].Y - arrPath[i-1].Y;
+
+				if (x == 1 && y == 1)
+					directionPath[i-1] = Direction.RightDown;
+				if (x == -1 && y == 1)
+					directionPath[i-1] = Direction.LeftDown;
+				if (x == 0 && y == 1)
+					directionPath[i-1] = Direction.Down;
+				if (x == 1 && y == -1)
+					directionPath[i-1] = Direction.RightUp;
+				if (x == -1 && y == -1)
+					directionPath[i-1] = Direction.LeftUp;
+				if (x == 0 && y == -1)
+					directionPath[i-1] = Direction.Up;
+			}
+
+			return directionPath;
+		}
+
+		private void MarkForward(bool[,] map, int[,] mapPaths, Location start, Location target, int step)
 		{
 			if ((mapPaths[start.Y, start.X] == 0 || mapPaths[start.Y, start.X] > step)
 				&& map[start.Y, start.X])
@@ -72,7 +99,7 @@ namespace Homm.Client
 			}
 		}
 
-		private static void SelectPath(bool[,] map, int[,] mapPaths, Location start, Location target,
+		private void SelectPath(bool[,] map, int[,] mapPaths, Location start, Location target,
 			Stack<Location> path)
 		{
 			path.Push(target);
@@ -87,8 +114,8 @@ namespace Homm.Client
 
 			for (int i = 0; i < 6; i++)
 			{
-				if (IsValidPos(target.X + xdir[i], target.Y + ydir[i], rows, cols))
-					if ((mapPaths[target.Y + ydir[i], target.X + xdir[i]] == mapPaths[target.Y, target.X] - 1))
+				if (IsValidPos(target.X + xdir[i], target.Y + ydir[i], rows, cols)
+					&& (mapPaths[target.Y + ydir[i], target.X + xdir[i]] == mapPaths[target.Y, target.X] - 1))
 					{
 						SelectPath(map, mapPaths, start,
 							new Location(target.Y + ydir[i], target.X + xdir[i]), path);
@@ -97,7 +124,7 @@ namespace Homm.Client
 			}
 		}
 
-		private static bool IsValidPos(int x, int y, int rows, int cols)
+		private bool IsValidPos(int x, int y, int rows, int cols)
 		{
 			if ((x >= 0) && (x < rows) && (y >= 0) && (y < cols))
 			{
