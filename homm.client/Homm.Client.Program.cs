@@ -62,14 +62,16 @@ namespace Homm.Client
             //foreach (var e in path)
             //    sensorData = client.Move(e);
             //sensorData = client.Move(Direction.RightDown);
-            for (int i = 0; i < Map.GetLength(0); i++)
-            {
-                for (int j = 0; j < Map.GetLength(1); j++)
-                {
-                    Console.Write(Map[i, j] + ", ");
-                }
-                Console.WriteLine();
-            }
+
+            //for (int i = 0; i < Map.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < Map.GetLength(1); j++)
+            //    {
+            //        Console.Write("["+i+","+j +"]"+ Map[i, j] + ", ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
             if (Map != null && Start != null && Target != null)
             {
                 Search search = new Search(Map, Start, Target);
