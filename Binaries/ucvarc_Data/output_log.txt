@@ -1105,3 +1105,132 @@ UnloadTime: 472.815948 ms
 Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 3142.
 Total: 2.375199 ms (FindLiveObjects: 0.142129 ms CreateObjectMapping: 0.127445 ms MarkObjects: 1.817486 ms  DeleteObjects: 0.287583 ms)
 
+PlayServer.HasGame: Requested game homm.Level2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Game found in loader
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted client Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted 1 connections
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dispatcher.IntroductionTick: Starting remote game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 5.096441 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3136.
+Total: 9.416018 ms (FindLiveObjects: 0.185904 ms CreateObjectMapping: 0.318337 ms MarkObjects: 8.895985 ms  DeleteObjects: 0.013298 ms)
+
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4474
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\I18N.West.dll (this message is harmless)
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\CVARC.Core.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\CVARC.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\DotNetZip.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\DotNetZip.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\Infrastructure.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\Infrastructure.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityCommons.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\UnityCommons.dll into Unity Child Domain
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\Ionic.Zip.dll (this message is harmless)
+Loading C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\Ionic.Zip.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.272517 ms
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\System.Data.dll (this message is harmless)
+Loaded settings, version=3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**************  UNITY STARTED 3/22/2017 1:51:44 PM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\System.Configuration.dll (this message is harmless)
+SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint local_end) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.TcpListener.Start (Int32 backlog) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.TcpListener.Start () [0x00000] in <filename unknown>:0 
+  at Assets.Servers.PlayServer..ctor (Int32 port) [0x00000] in <filename unknown>:0 
+  at Assets.GameManager..ctor () [0x00000] in <filename unknown>:0 
+  at Dispatcher+<Start>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+IntroductionStript:Start()
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4b98 -> priority: 1 
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 431.816437 ms
+
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 3142.
+Total: 2.063234 ms (FindLiveObjects: 0.129939 ms CreateObjectMapping: 0.111930 ms MarkObjects: 1.531841 ms  DeleteObjects: 0.288415 ms)
+
+Starting tutorial game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.865245 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3136.
+Total: 3.261224 ms (FindLiveObjects: 0.144623 ms CreateObjectMapping: 0.215826 ms MarkObjects: 2.884982 ms  DeleteObjects: 0.014961 ms)
+
+Platform assembly: C:\Users\tatiana.zhydeikina\Documents\ArtificialIntelligence\Binaries\ucvarc_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 617.364868 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 3142.
+Total: 1.821087 ms (FindLiveObjects: 0.093367 ms CreateObjectMapping: 0.104450 ms MarkObjects: 1.482525 ms  DeleteObjects: 0.140190 ms)
+

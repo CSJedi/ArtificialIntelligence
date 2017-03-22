@@ -58,8 +58,8 @@ namespace Homm.Client
 			var rows = map.GetLength(1);
 			var cols = map.GetLength(0);
 
-			var ydir = new int[] {0, 0, -1, -1, 1, 1};
-			var xdir = new int[] {-1, 1, 0, 1, 0, 1};
+			var ydir = new int[] { 1, 1, 1, -1, -1,-1 };
+			var xdir = new int[] { 1, -1, 0, 1, -1, 0 };
 
 			for (int i = 0; i < 6; i++)
 			{
@@ -82,8 +82,8 @@ namespace Homm.Client
 
 			var rows = mapPaths.GetLength(1);
 			var cols = mapPaths.GetLength(0);
-			var ydir = new int[] { 0, 0, -1, 1, 1, -1 };
-			var xdir = new int[] { -1, 1, 0, 0, -1, -1 };
+			var ydir = new int[] { 1, 1, 1, -1, -1, -1 };
+			var xdir = new int[] { 1, -1, 0, 1, -1, 0 };
 
 			for (int i = 0; i < 6; i++)
 			{
